@@ -1,0 +1,6 @@
+numpy==1.23.3
+opencv_python==4.8.1.78
+opencv_python_headless==4.7.0.68
+paho_mqtt==2.1.0
+pyserial==3.5
+setuptools==63.2.0
